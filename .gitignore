@@ -234,3 +234,5 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+/RunAnalysis/RunAnalysis/OSIsoft.AFSDK.dll
+/RunAnalysis/RunAnalysis/Library/OSIsoft.AFSDK.dll
